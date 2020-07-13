@@ -1,0 +1,6 @@
+Credentials cache: API:5D72A95B-20FE-40B1-BF78-DBDA58ECE7A3
+        Principal: tjohnnie@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 13 16:52:15 2020  Jul 14 02:52:16 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Jul 13 16:52:18 2020  Jul 14 02:52:16 2020  HTTP/student-storage.msk.21-school.ru@MSK.21-SCHOOL.RU
